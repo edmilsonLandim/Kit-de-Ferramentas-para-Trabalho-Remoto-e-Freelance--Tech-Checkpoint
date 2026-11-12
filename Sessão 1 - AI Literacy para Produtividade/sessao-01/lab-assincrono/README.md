@@ -31,9 +31,10 @@ O documento final pode ir para o portfólio (GitHub/LinkedIn) como evidência de
 profissional assistido por IA. Não inclua dados reais de clientes.
 
 ## Evidências
-Guardar em [`evidencias/`](evidencias/): capturas da conversa com a IA (v1 e v2) e da submissão.
+- [`conversa-claude-2026-11-12.md`](evidencias/conversa-claude-2026-11-12.md): registo de todos os prompts e respostas.
+- Falta: captura da submissão no Moodle.
 
 ## Estado
-- [ ] Prompts corridos e outputs reais colados
+- [x] Prompts corridos no Claude e outputs reais no documento (12/11/2026)
 - [ ] Documento exportado para PDF/DOCX
 - [ ] Submetido em Entregáveis 1

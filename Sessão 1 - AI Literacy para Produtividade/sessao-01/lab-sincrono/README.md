@@ -46,10 +46,10 @@ O conteúdo completo das 5 partes está em
 | **F**ormato | Estrutura, extensão, língua, tom |
 | **R**estrições | O que não fazer (inventar números, prometer prazos, dados pessoais) |
 
-## Importante
-Corra os prompts numa ferramenta (ChatGPT, Claude ou Gemini) e cole **os seus** outputs. Os
-textos no rascunho mostram o resultado esperado de cada iteração. Ajuste-os ao que a
-ferramenta devolver e ao que for discutido na sessão.
+## Outputs
+Os prompts foram corridos no Claude (Claude Opus 5.5) em 12/11/2026. Os outputs reais
+estão no documento de entrega e o registo completo da conversa está em
+[`../lab-assincrono/evidencias/conversa-claude-2026-11-12.md`](../lab-assincrono/evidencias/conversa-claude-2026-11-12.md).
 
 ## Estado
 - [ ] Template preenchido e guardado em `../entregaveis/`

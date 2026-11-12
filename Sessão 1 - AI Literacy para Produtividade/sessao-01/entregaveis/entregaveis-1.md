@@ -3,11 +3,13 @@
 **Sessão 1 - AI Literacy para Produtividade** | Percurso Upskilling | Entregáveis 1
 **Cliente (estudo de caso):** Cabo Digital Travel - turismo e experiências locais
 **Papel:** freelancer / consultor digital em regime remoto
-**Ferramentas:** ChatGPT / Claude (geração e crítica), Google Docs (edição e versão final),
-Trello e Slack (contexto do cliente)
+**Ferramenta de IA:** Claude (Anthropic), modelo Claude Opus 5.5 - conversa de 12/11/2026
+**Outras ferramentas:** Google Docs (edição e versão final); Trello, Slack e Google Meet
+(ferramentas do cliente, referidas nos outputs)
 
-> Os outputs abaixo foram gerados com IA e revistos por mim. Os números marcados com `[a
-> confirmar]` são hipóteses a validar com o cliente: não foram inventados como factos.
+> Os outputs de IA estão transcritos sem edição. Por baixo de cada um indico o que alterei
+> na revisão humana. Registo completo da conversa:
+> `lab-assincrono/evidencias/conversa-claude-2026-11-12.md`.
 
 ---
 
@@ -26,19 +28,19 @@ Trello e Slack (contexto do cliente)
 1. **Tempo e consistência de resposta a clientes**: maior impacto direto em receita.
 2. **Documentação mínima (SOPs)** para as tarefas mais repetidas.
 3. **Organização de tarefas** no Trello com regras de prioridade claras.
-4. Conteúdos e automações mais avançadas ficam para a fase 2 do piloto.
+4. Conteúdos e automações mais avançadas ficam para depois do piloto.
 
 **Oportunidades de melhoria**
 - Biblioteca de respostas-modelo multilingues (PT/EN/FR) geradas e revistas com IA.
 - Prompt padrão com o tom de voz da marca, usado por toda a equipa.
 - Triagem de pedidos por categoria (informação, reserva, alteração, reclamação).
-- SOPs curtos criados a partir de explicações faladas da equipa (transcrição + IA).
-- Resumo semanal automático do quadro Trello para a direção.
+- SOPs curtos criados a partir de explicações da equipa (transcrição + IA).
+- Resumo semanal do quadro Trello para a direção.
 
 **Riscos e limitações**
 - **Alucinações**: a IA pode inventar preços, horários ou políticas de cancelamento.
-- **Privacidade**: dados de clientes (nomes, passaportes, pagamentos) não devem ser
-  colados em ferramentas de IA públicas (RGPD).
+- **Privacidade**: dados de clientes (nomes, contactos, documentos, pagamentos) não devem
+  ser colados em ferramentas de IA (RGPD).
 - **Tom genérico**: respostas "de robô" prejudicam uma marca de experiências locais.
 - **Dependência**: a equipa deixar de rever o que envia.
 - **Adoção**: equipa pequena e ocupada; processos complexos não serão usados.
@@ -50,7 +52,7 @@ Trello e Slack (contexto do cliente)
 **Objetivos principais**
 - Reduzir o tempo de primeira resposta a clientes e torná-la consistente.
 - Dar à equipa um processo simples, documentado e repetível com apoio de IA.
-- Propor à direção um piloto de 3 meses com fases e indicadores claros.
+- Propor à direção um piloto de 3 meses com fases e entregas claras.
 
 **Outputs selecionados**
 1. **Email profissional** à direção: diagnóstico e proposta de projeto piloto.
@@ -59,10 +61,9 @@ Trello e Slack (contexto do cliente)
 **Ferramentas**
 | Etapa | Ferramenta |
 |---|---|
-| Análise e geração | ChatGPT ou Claude |
-| Crítica do output | Segunda conversa (ou outra ferramenta) no papel de revisor |
+| Geração e crítica | Claude (o mesmo modelo, em papéis diferentes: autor e cliente exigente) |
 | Edição e versão final | Google Docs |
-| Contexto do cliente | Trello, Slack, Google Meet (referidos no SOP) |
+| Contexto do cliente | Trello, Slack, Google Meet (referidos nos outputs) |
 
 **Workflow definido (v1)**
 1. Ler o caso e extrair desafios e prioridades.
@@ -94,18 +95,40 @@ Trello e Slack (contexto do cliente)
 Escreve um email para uma empresa de turismo a propor melhorar a produtividade com IA.
 ```
 
-**Output inicial (resumo do que a IA devolveu)**
-> Assunto: Proposta de Colaboração
-> Caro(a) Cliente, espero que esteja bem. A Inteligência Artificial está a revolucionar o
-> setor do turismo. Com as nossas soluções inovadoras podemos aumentar a sua produtividade
-> em 50% e reduzir custos significativamente. Oferecemos chatbots, automação de marketing,
-> análise de dados e muito mais. Ficaria encantado em agendar uma reunião...
+**Output inicial**
+> **Assunto:** Proposta: Aumentar a produtividade da vossa equipa com Inteligência Artificial
+>
+> Exmos. Senhores,
+>
+> O meu nome é [Nome] e trabalho como consultor em transformação digital, ajudando empresas
+> do setor do turismo a tirar partido da Inteligência Artificial no dia a dia.
+>
+> Sabemos que o turismo é um setor exigente: pedidos de clientes a qualquer hora, várias
+> línguas, reservas, parceiros e uma forte pressão para estar presente online. A IA pode
+> ajudar a vossa equipa a responder mais depressa e a dedicar mais tempo ao que realmente
+> importa: a experiência do cliente.
+>
+> Algumas áreas onde podemos começar:
+> - **Atendimento ao cliente:** respostas rápidas e personalizadas a emails e mensagens, em várias línguas;
+> - **Marketing e conteúdos:** criação de publicações, descrições de experiências e newsletters;
+> - **Gestão de reservas:** automatização de confirmações, lembretes e follow-ups;
+> - **Análise de dados:** identificação de tendências de procura e de avaliações de clientes;
+> - **Tarefas administrativas:** relatórios, resumos de reuniões e documentação interna.
+>
+> Empresas que adotam estas ferramentas conseguem poupar várias horas por semana e melhorar
+> a satisfação dos clientes.
+>
+> Gostaria de agendar uma breve reunião para perceber as vossas necessidades e apresentar
+> uma proposta à medida. Teria disponibilidade nas próximas semanas?
+>
+> Com os melhores cumprimentos,
+> [Nome]
 
 **Problemas identificados**
-- Genérico: não menciona a Cabo Digital Travel nem nenhum dos seus problemas.
-- **Inventa um número** ("50%") sem base.
-- Lista de serviços tipo catálogo, sem prioridade nem plano.
-- Sem proposta concreta nem próximo passo com data.
+- Bem escrito, mas genérico: não menciona a Cabo Digital Travel nem os seus problemas.
+- Afirmação sem prova: "poupar várias horas por semana".
+- Lista de 5 serviços tipo catálogo, sem prioridade nem plano.
+- Próximo passo vago ("nas próximas semanas").
 
 **Prompt de crítica (iteração 2)**
 ```
@@ -114,9 +137,10 @@ propostas de freelancers. Avalia o email abaixo de 1 a 5 em: personalização, c
 credibilidade, proposta concreta e próximo passo. Indica as 3 alterações mais importantes.
 [email]
 ```
-Resposta resumida: personalização 1, credibilidade 2 (número sem fonte), proposta concreta 1;
-alterações: referir os problemas reais, propor um piloto pequeno com fases, retirar promessas
-não fundamentadas.
+Resposta da IA: personalização **1**, clareza **4**, credibilidade **2**, proposta concreta
+**1**, próximo passo **2**. Alterações: (1) mostrar que conhece os problemas da empresa;
+(2) trocar a lista de serviços por um piloto pequeno com início, duração e resultado;
+(3) próximo passo concreto e sem afirmações sem prova.
 
 **Prompt refinado (iteração 3, P-C-T-F-R)**
 ```
@@ -138,39 +162,42 @@ próximo, sem jargão.
 ```
 
 **Melhorias realizadas**
-- Personalização com os problemas do caso; piloto em fases alinhado com os 3 meses.
-- Remoção de promessas não fundamentadas; indicadores ficam "a confirmar" na reunião.
-- Revisão humana: encurtei o 1.º parágrafo, troquei "solução" por exemplos concretos,
-  adicionei duas datas alternativas e verifiquei que só são referidas ferramentas que o
-  cliente já usa.
+- Pela IA (iteração 3): personalização com os problemas do caso; piloto em 3 fases
+  alinhado com os 3 meses; sem números inventados; indicador marcado "[a confirmar]".
+- Na revisão humana:
+  - retirei "é uma ótima notícia, mas" (demasiado informal num primeiro contacto);
+  - troquei "na próxima semana" por duas opções concretas ("terça ou quinta de manhã");
+  - confirmei que só são referidas ferramentas que o cliente já usa.
 
 **Versão final**
-> **Assunto:** Piloto de 3 meses para acelerar a resposta a clientes - Cabo Digital Travel
+> **Assunto:** Proposta de piloto de 3 meses – resposta a clientes e organização da equipa
 >
 > Bom dia,
 >
-> Pelo que partilharam, o crescimento dos últimos meses trouxe três pontos de pressão: os
-> clientes esperam demasiado por uma resposta, a comunicação varia consoante quem responde
-> e muitas tarefas repetitivas ocupam tempo da equipa. Isto acontece com frequência quando
-> uma equipa pequena cresce sem processos escritos, e resolve-se melhor por etapas.
+> Obrigado pela partilha do contexto da Cabo Digital Travel. Percebo que o crescimento dos
+> últimos meses trouxe pressão em pontos concretos: clientes que esperam demasiado por uma
+> resposta, comunicação que varia consoante quem responde, tarefas difíceis de priorizar e
+> muito tempo gasto em trabalho repetitivo, sem procedimentos escritos.
 >
-> Proponho um piloto de 3 meses, com as ferramentas que já usam (Google Workspace, Trello,
-> Slack):
+> Proponho começar com um piloto de 3 meses, usando as ferramentas que já utilizam (Google
+> Workspace, Trello, Slack e Meet):
 >
-> 1. **Mês 1 - Resposta a clientes:** biblioteca de respostas-modelo em PT/EN/FR e um
->    procedimento simples de resposta com apoio de IA, sempre revisto pela equipa.
-> 2. **Mês 2 - Organização:** quadro Trello com regras de prioridade e 3 a 5 SOPs das
->    tarefas mais repetidas.
-> 3. **Mês 3 - Escala:** resumo semanal automático para a direção e plano para conteúdos.
+> 1. **Mês 1 – Comunicação com clientes:** respostas-modelo para os pedidos mais frequentes
+>    e um prompt com o tom da marca. *Resultado:* respostas mais rápidas e consistentes.
+> 2. **Mês 2 – Organização:** quadro Trello com regras de prioridade e procedimentos
+>    escritos para as tarefas mais repetidas. *Resultado:* menos dependência de pessoas-chave.
+> 3. **Mês 3 – Consolidação:** rever o que funcionou, ajustar e preparar os passos
+>    seguintes. *Resultado:* um processo estável que a equipa usa sem apoio.
 >
-> Na primeira reunião definimos juntos os indicadores de sucesso (por exemplo, tempo médio
-> de primeira resposta: atual [a confirmar] / objetivo [a definir]).
+> Os indicadores de sucesso, como o tempo médio de resposta (atual: [a confirmar]), seriam
+> definidos convosco na primeira reunião.
 >
-> Tem disponibilidade para uma chamada de 30 minutos no Google Meet na terça ou na quinta
-> de manhã?
+> Teriam disponibilidade para uma conversa de 30 minutos no Google Meet na terça ou na
+> quinta de manhã?
 >
 > Com os melhores cumprimentos,
-> [Nome] | Consultor de operações digitais e IA aplicada
+> [Nome]
+> Consultor de operações digitais e IA aplicada
 
 ### OUTPUT 2 - SOP "Resposta a pedidos de clientes com apoio de IA"
 
@@ -179,17 +206,34 @@ próximo, sem jargão.
 Cria um procedimento para responder a clientes usando IA.
 ```
 
-**Output inicial (resumo)**
-> 1. Receber a mensagem. 2. Copiar a mensagem do cliente para o ChatGPT. 3. Pedir uma
-> resposta. 4. Enviar a resposta. 5. Registar no sistema. Dica: use a IA para responder
-> mais depressa a todos os clientes.
+**Output inicial**
+> **Procedimento: Resposta a Clientes com Apoio de IA**
+>
+> 1. **Receção e leitura da mensagem** – ler a mensagem na íntegra e identificar o pedido
+>    principal e o tom do cliente.
+> 2. **Classificação** – identificar o tipo de pedido (informação, reclamação, pedido de
+>    serviço, suporte técnico) e o nível de urgência.
+> 3. **Preparação do prompt** – fornecer à IA o contexto necessário: mensagem do cliente,
+>    informação relevante (produto, encomenda, políticas) e tom desejado. Exemplo: *"És um
+>    assistente de apoio ao cliente da empresa X. Responde à seguinte mensagem de forma
+>    cordial e profissional: [mensagem do cliente]"*.
+> 4. **Geração da resposta** – gerar a resposta e, se necessário, pedir ajustes.
+> 5. **Revisão humana** – verificar exatidão da informação, tom e personalização.
+> 6. **Envio** – enviar pelo canal original.
+> 7. **Registo e follow-up** – registar a interação e agendar seguimento, se aplicável.
+>
+> **Boas práticas:** não partilhar dados sensíveis (dados de cartão, palavras-passe) com a
+> IA; criar uma biblioteca de prompts; rever periodicamente as respostas.
 
 **Problemas identificados**
-- **Risco de privacidade**: manda colar a mensagem completa (com dados pessoais) na IA.
-- Sem revisão humana: a resposta é enviada tal como sai.
-- Não distingue tipos de pedido (uma reclamação não pode ser tratada como um pedido de
-  informação).
-- Não diz quem faz, em que ferramenta, nem em quanto tempo.
+- **Privacidade**: o passo 3 manda colar a mensagem completa do cliente na IA, e as boas
+  práticas só excluem cartões e palavras-passe (ficam de fora nomes, contactos,
+  documentos e números de reserva).
+- Genérico: categorias de comércio eletrónico ("encomenda", "suporte técnico") que não
+  servem uma empresa de turismo; sem línguas, canais nem ferramentas do cliente.
+- Reclamações seguem o mesmo fluxo que um pedido de informação.
+- Sem prazos de resposta nem responsáveis.
+- Ponto positivo a manter: já incluía revisão humana antes do envio.
 
 **Prompt refinado (P-C-T-F-R)**
 ```
@@ -206,70 +250,91 @@ revisão humana; prazos como propostas "[a validar]".
 ```
 
 **Melhorias realizadas**
-- Anonimização antes de usar IA; revisão humana obrigatória; categorias com prazos.
-- Revisão humana: retirei um passo de "resposta automática no WhatsApp" que a IA sugeriu
-  (a empresa não tem essa integração); simplifiquei de 11 para 8 passos; acrescentei o
-  canal de Slack para escalar casos.
+- Pela IA: anonimização antes de usar IA; categorias de turismo com prazos; responsáveis;
+  reclamações com decisão humana; checklist e regras de privacidade.
+- Na revisão humana:
+  - **retirei a categoria "Parceiros"**: saía do âmbito (pedidos de clientes) e merece
+    um SOP próprio;
+  - **passei o encaminhamento de reclamações do passo 8 para o passo 2**: no output da
+    IA a reclamação só era encaminhada depois de já ter passado pela IA e pela redação;
+  - **acrescentei o passo de partir das respostas-modelo**, que a IA não incluiu e é o
+    que mais acelera a resposta;
+  - marquei o canal "#operações" como "[a confirmar]": foi a IA que o sugeriu, não
+    sabemos se existe.
 
 **Versão final**
 
-> **SOP-01 | Resposta a pedidos de clientes com apoio de IA** · v1.0 · Responsável: [a definir]
+> **SOP-01 | Resposta a pedidos de clientes com apoio de IA**
+> Cabo Digital Travel · v1.0 · Revisão: [a validar]
 >
-> **Objetivo:** responder mais depressa e com tom consistente, sem perder qualidade nem
-> expor dados de clientes.
-> **Âmbito:** pedidos recebidos por email e WhatsApp (PT, EN, FR).
+> **Objetivo:** responder de forma rápida, consistente e correta aos pedidos de clientes,
+> com apoio de IA e sem expor dados pessoais.
+> **Âmbito:** pedidos de clientes recebidos por email e WhatsApp, em PT, EN e FR.
+> **Responsáveis:** atendimento (quem estiver de turno) classifica, prepara e envia;
+> responsável de operações trata reclamações, reembolsos e exceções; direção aprova
+> alterações a preços e políticas.
 >
-> | Categoria | Exemplo | Prazo de 1.ª resposta | IA pode redigir? |
+> | Categoria | Exemplos | Prazo 1.ª resposta | Uso de IA |
 > |---|---|---|---|
-> | Informação | horários, preços, o que inclui | 4 h úteis [a validar] | Sim, com base nas respostas-modelo |
-> | Reserva | marcar uma experiência | 4 h úteis [a validar] | Sim, a pessoa confirma disponibilidade |
-> | Alteração | mudar data, nº de pessoas | 8 h úteis [a validar] | Sim, a pessoa confirma política |
-> | Reclamação / reembolso | experiência correu mal | 24 h [a validar] | Só para melhorar a redação; decisão humana |
+> | Informação | preços, horários, o que inclui | 4 h úteis [a validar] | Sim |
+> | Reserva | nova reserva, disponibilidade | 4 h úteis [a validar] | Sim, após confirmar disponibilidade |
+> | Alteração / cancelamento | mudança de data, nº de pessoas | 8 h úteis [a validar] | Sim, após confirmar a política |
+> | Reclamação / reembolso | problema na experiência | 24 h [a validar] | Só para rever a redação; decisão humana |
 >
 > **Passos**
-> 1. Classificar o pedido numa das 4 categorias e criar cartão no Trello (lista "Pedidos").
-> 2. Procurar a resposta-modelo correspondente na pasta partilhada "Respostas-modelo".
-> 3. Se for preciso adaptar, **anonimizar** o pedido: retirar nomes, contactos, nº de
->    reserva e dados de pagamento.
-> 4. Usar o prompt padrão da marca (tom próximo, profissional, na língua do cliente) para
->    adaptar a resposta-modelo.
-> 5. **Rever**: factos (preço, horário, política) confirmados na fonte oficial; tom; língua.
-> 6. Repor os dados do cliente e enviar.
-> 7. Atualizar o cartão no Trello; reclamações vão também para `#atendimento` no Slack.
-> 8. Se a mesma pergunta aparecer 3 vezes na semana, propor nova resposta-modelo.
+> 1. Ler o pedido, classificá-lo e registá-lo no Trello (lista "Pedidos em curso") com
+>    categoria e prazo.
+> 2. Reclamação ou reembolso? Encaminhar já no Slack (#operações [a confirmar]) para o
+>    responsável de operações, que decide a resposta.
+> 3. Procurar a resposta-modelo correspondente na pasta partilhada "Respostas-modelo".
+> 4. Se for preciso adaptar, retirar da mensagem todos os dados pessoais (nome, email,
+>    telefone, nº de reserva, documentos, pagamentos).
+> 5. Colar na IA o pedido anonimizado e a resposta-modelo, com o prompt padrão da empresa
+>    e a língua do cliente.
+> 6. Confirmar na fonte oficial (tabela de preços, calendário, política de cancelamento)
+>    todos os factos da resposta.
+> 7. Rever tom e língua, repor o nome do cliente e os dados necessários, e enviar.
+> 8. Mover o cartão para "Respondido". Se a mesma pergunta surgir 3 vezes na semana,
+>    propor nova resposta-modelo.
 >
-> **Checklist antes de enviar:** ☐ factos verificados ☐ sem dados pessoais colados na IA
-> ☐ nome do cliente correto ☐ língua e tom adequados ☐ próximo passo claro para o cliente.
+> **Checklist de revisão:** ☐ factos confirmados na fonte ☐ sem dados pessoais na IA
+> ☐ nome e língua corretos ☐ tom da marca ☐ próximo passo claro para o cliente.
 >
-> **Privacidade:** nunca colar em ferramentas de IA documentos de identificação, dados de
-> pagamento ou contactos. Em caso de dúvida, não usar IA nesse pedido.
+> **Privacidade:** a IA só recebe texto anonimizado. Nunca colar documentos de
+> identificação, dados de pagamento, contactos ou números de reserva. Em caso de dúvida,
+> responder sem IA.
 
 ---
 
 ## Parte 4 - Revisão crítica e otimização
 
 **Principais limitações identificadas**
-- Os primeiros outputs eram genéricos e inventaram dados ("50% de produtividade").
-- A IA sugeriu passos inseguros (colar dados pessoais) e integrações inexistentes.
+- Os prompts genéricos deram textos bem escritos mas vazios: serviam para qualquer
+  empresa e incluíam afirmações sem prova ("poupar várias horas por semana").
+- No SOP inicial, a IA mandava colar a mensagem completa do cliente, com uma regra de
+  privacidade incompleta.
+- Mesmo com um bom prompt, a IA criou uma categoria fora do âmbito, pôs as reclamações no
+  fim do processo e inventou um canal de Slack.
 - A IA não conhece as políticas reais do cliente (preços, cancelamentos): esses factos
   têm sempre de vir de uma fonte da empresa.
 
 **Melhorias implementadas**
 - Prompt estruturado P-C-T-F-R com restrições explícitas.
 - Iteração de crítica com a IA no papel do cliente, antes de refinar.
-- Marcador `[a confirmar]` em vez de números inventados.
-- Revisão humana com checklist de 6 critérios em ambos os outputs.
+- Marcadores "[a confirmar]" / "[a validar]" em vez de valores inventados.
+- Revisão humana com checklist de 6 critérios nos dois outputs.
 
 **Estratégias utilizadas**
-- Prompting iterativo em 3 passos: gerar → criticar com critérios → refinar.
-- *Role prompting* (a IA como cliente exigente para avaliar).
+- Prompting iterativo: gerar → criticar com critérios → refinar → rever.
+- *Role prompting*: a IA como cliente exigente para avaliar o email.
 - Restrições de formato (limite de palavras, secções fixas) para outputs mais utilizáveis.
 
 **Aprendizagens principais**
 - A qualidade do output depende mais do contexto e das restrições do que da ferramenta.
 - A IA acelera o primeiro rascunho, mas o valor profissional está na validação e na
   adaptação ao cliente.
-- Pedir à IA que se critique a si própria é rápido e revela problemas que eu não via.
+- Um output bem formatado pode ter erros de lógica (ordem dos passos) que só uma leitura
+  atenta apanha.
 
 ---
 
@@ -288,21 +353,21 @@ revisão humana; prazos como propostas "[a validar]".
 | v1 (sessão síncrona) | v2 (otimizado) | Porquê |
 |---|---|---|
 | Prompt escrito de raiz em cada tarefa | **Prompt-base reutilizável** com o contexto do cliente | Poupa tempo e garante consistência |
-| Crítica livre | Crítica com **grelha fixa de 5 critérios** (1-5) | Comparar versões de forma objetiva |
+| Crítica livre | Crítica com **grelha fixa de 5 critérios** (1-5), aplicada a todas as versões | Comparar versões de forma objetiva |
 | Validação no fim | **Ponto de privacidade no início** (anonimizar antes de usar IA) | O risco acontece ao colar os dados |
-| Uma ferramenta | Gerar numa ferramenta, **rever noutra** | Reduz o enviesamento da mesma IA |
-| Sem registo | **Registo de versões** (v1, v2, final) e prompts no Google Docs | Evidência e melhoria contínua |
+| Revisão só do texto | Revisão também da **lógica e da ordem** dos passos | Foi onde a IA errou no SOP |
+| Sem registo | **Registo de versões e prompts** (ficheiro de evidências) | Evidência e melhoria contínua |
 
 **Workflow final estruturado**
 ```
-1. BRIEFING      Ler o pedido; definir objetivo, público e output (5 min)
-2. PRIVACIDADE   Anonimizar dados; decidir se a IA pode ser usada (1 min)
-3. PROMPT        Prompt-base do cliente + tarefa + formato + restrições (3 min)
-4. GERAR v1      ChatGPT/Claude (1-2 min)
-5. CRITICAR      Grelha: personalização, clareza, exatidão, proposta, próximo passo (2 min)
-6. REFINAR v2    Ajustar o prompt com as 3 alterações principais (2 min)
-7. VALIDAR       Revisão humana: factos na fonte, tom, checklist (5 min)
-8. ENTREGAR      Versão final no Google Docs; registar prompt e versões (2 min)
+1. BRIEFING      Ler o pedido; definir objetivo, público e output
+2. PRIVACIDADE   Anonimizar dados; decidir se a IA pode ser usada
+3. PROMPT        Prompt-base do cliente + tarefa + formato + restrições
+4. GERAR v1      Claude / ChatGPT
+5. CRITICAR      Grelha: personalização, clareza, credibilidade, proposta, próximo passo
+6. REFINAR v2    Ajustar o prompt com as alterações principais da crítica
+7. VALIDAR       Revisão humana: factos na fonte, tom, lógica, checklist
+8. ENTREGAR      Versão final no Google Docs; registar prompts e versões
 9. MELHORAR      Pedido repetido 3x → criar modelo/SOP novo
 ```
 
@@ -317,65 +382,116 @@ Tarefa: ...
 Formato: ...
 ```
 
-**Iteração extra (aplicação do workflow v2 ao email)**
+**Iteração extra: workflow v2 aplicado ao email**
 
-Grelha de avaliação (feita pela IA, conferida por mim):
-| Critério | Inicial | Final (Parte 3) | Final v2 |
+Avaliei a versão final da Parte 3 com a grelha. A IA deu 4 em personalização, clareza,
+credibilidade e proposta concreta, e 5 no próximo passo. Sugeriu dar a cada fase uma
+entrega verificável e passar o detalhe para um anexo. Prompt usado:
+```
+[prompt-base Cabo Digital Travel]
+Tarefa: melhora o email abaixo aplicando a sugestão da avaliação: uma entrega verificável
+por fase e referência a um anexo de uma página com o plano.
+Formato: manter máximo 220 palavras e a mesma estrutura.
+[versão final do email]
+```
+
+**Versão melhorada (v2)**
+> **Assunto:** Piloto de 3 meses para acelerar a resposta a clientes – Cabo Digital Travel
+>
+> Bom dia,
+>
+> Obrigado pela partilha do contexto da Cabo Digital Travel. O crescimento dos últimos meses
+> trouxe pressão em pontos concretos: clientes que esperam demasiado por uma resposta,
+> comunicação que varia consoante quem responde e muito tempo gasto em tarefas repetitivas,
+> sem procedimentos escritos.
+>
+> Proponho um piloto de 3 meses com as ferramentas que já utilizam (Google Workspace,
+> Trello, Slack e Meet), com uma entrega verificável por mês:
+>
+> 1. **Mês 1 – Comunicação com clientes:** biblioteca com respostas-modelo para as 15
+>    perguntas mais frequentes, em PT, EN e FR, e um prompt com o tom da marca.
+> 2. **Mês 2 – Organização:** quadro Trello com regras de prioridade e 3 a 5 procedimentos
+>    escritos das tarefas mais repetidas.
+> 3. **Mês 3 – Consolidação:** relatório de resultados face aos indicadores acordados e
+>    plano para a fase seguinte.
+>
+> Em anexo envio o plano numa página. Os indicadores (por exemplo, tempo médio de primeira
+> resposta – atual [a confirmar]) seriam definidos convosco na primeira reunião.
+>
+> Teriam disponibilidade para 30 minutos no Google Meet na terça ou na quinta de manhã?
+>
+> Com os melhores cumprimentos,
+> [Nome]
+> Consultor de operações digitais e IA aplicada
+
+Revisão humana da v2: aceite sem alterações. As "15 perguntas" são um âmbito de trabalho
+que eu proponho, não um resultado prometido; ficam para confirmar na reunião.
+
+**Evolução das versões (grelha 1-5, avaliação da IA conferida por mim)**
+| Critério | Inicial | Final (Parte 3) | v2 |
 |---|---|---|---|
 | Personalização | 1 | 4 | 5 |
-| Clareza | 3 | 4 | 5 |
-| Exatidão / credibilidade | 2 | 5 | 5 |
+| Clareza | 4 | 4 | 5 |
+| Credibilidade | 2 | 4 | 4 |
 | Proposta concreta | 1 | 4 | 5 |
-| Próximo passo | 2 | 4 | 5 |
+| Próximo passo | 2 | 5 | 5 |
 
-Alteração da v2: um resultado mensurável por fase ("Mês 1: biblioteca com as 15 perguntas
-mais frequentes em 3 línguas") e um anexo de uma página com o plano, para o email continuar
-curto.
+A credibilidade fica em 4 porque o email ainda não mostra trabalho anterior. A melhoria
+seguinte seria juntar um link para o portfólio, que vou construir neste módulo.
 
-**Ganhos de produtividade estimados (pessoais, não do cliente)**
+**Anexo do email - plano do piloto (1 página)**
+| Mês | Entrega | Como se verifica |
+|---|---|---|
+| 1 | 15 respostas-modelo em PT/EN/FR + prompt de tom da marca + SOP-01 | Pasta partilhada revista e aprovada pela direção |
+| 2 | Quadro Trello com regras de prioridade + 3 a 5 SOPs | Equipa usa o quadro numa semana de trabalho normal |
+| 3 | Relatório de resultados + plano da fase seguinte | Indicadores comparados com o ponto de partida |
+
+**Ganhos de produtividade (estimativa pessoal)**
 | Tarefa | Sem IA (estimativa) | Com workflow v2 |
 |---|---|---|
 | Email de proposta personalizado | ~45 min | ~20 min |
 | SOP de uma página | ~90 min | ~30 min |
 
-O tempo poupado está sobretudo no primeiro rascunho. A validação humana continua a
-demorar o mesmo, e deve.
+O tempo poupado está sobretudo no primeiro rascunho. A validação humana continua a demorar
+o mesmo, e deve.
 
 ---
 
 ## Parte 7 - Reflexão crítica
 
-**Dificuldades.** O primeiro resultado parecia bom à primeira vista, mas era genérico e
-tinha um número inventado. A maior dificuldade não foi gerar texto: foi perceber o que
-estava errado num texto bem escrito.
+**Dificuldades.** Os primeiros outputs pareciam bons: bem escritos, organizados e
+educados. A dificuldade não foi gerar texto, foi perceber o que estava errado num texto bem
+escrito. O email servia para qualquer empresa e o procedimento mandava colar a mensagem do
+cliente na IA.
 
-**Estratégias de prompting.** Passei de um pedido de uma linha para um prompt estruturado
-(papel, contexto, tarefa, formato, restrições) e introduzi uma iteração de crítica, com a
-IA a fazer de cliente exigente. Na v2 criei um prompt-base reutilizável, que é o que mais
+**Estratégias de prompting.** Passei de pedidos de uma linha para prompts estruturados
+(papel, contexto, tarefa, formato, restrições) e introduzi uma iteração de crítica com a IA
+no papel de cliente exigente. Na v2 criei um prompt-base reutilizável, que é o que mais
 acelera trabalho repetido para o mesmo cliente.
 
-**Diferenças entre versões.** A versão inicial falava de "IA no turismo"; a final fala dos
-problemas da Cabo Digital Travel, propõe um piloto em fases com as ferramentas que já usam
-e deixa os indicadores para acordar com o cliente. No SOP, a versão inicial criava um
-risco de RGPD; a final começa precisamente pela anonimização.
+**Diferenças entre versões.** O email passou de uma lista de serviços para um piloto em 3
+fases com uma entrega verificável por mês, sem promessas sem prova. O SOP passou de 7
+passos genéricos para um procedimento de turismo com categorias, prazos, responsáveis e
+anonimização obrigatória antes de usar IA.
 
 **Ganhos de produtividade.** Reduzi para menos de metade o tempo do primeiro rascunho. O
-maior ganho não é escrever mais depressa: é ter um processo repetível, que a equipa do
-cliente também pode usar.
+maior ganho é ter um processo repetível, que a equipa do cliente também pode usar.
 
-**Limitações dos outputs de IA.** Inventa dados com confiança, tende para o genérico,
-sugere integrações que não existem e não conhece as políticas reais da empresa.
+**Limitações dos outputs de IA.** Tende para o genérico, faz afirmações sem prova, não
+conhece as políticas reais da empresa e, mesmo com instruções claras, cometeu erros de
+lógica (reclamações tratadas no fim do processo) e inventou um detalhe (o canal de Slack).
 
-**Importância da validação humana.** Os dois erros mais graves (número inventado e dados
-pessoais na IA) só foram travados pela revisão. Num contexto de turismo, um preço ou uma
-política errada enviada a um cliente custa dinheiro e reputação. Por isso a validação está
-no workflow como passo obrigatório e não como opção.
+**Importância da validação humana.** Os erros mais importantes, a privacidade no SOP
+inicial e a ordem dos passos no SOP refinado, só foram travados pela revisão. Num contexto
+de turismo, uma política errada ou uma reclamação mal encaminhada custa dinheiro e
+reputação. Por isso a validação está no workflow como passo obrigatório.
 
 **Melhorias possíveis.** Testar as respostas-modelo com casos reais anonimizados; medir o
 tempo de primeira resposta antes e depois do piloto; criar um guia de tom de voz da marca
-para incluir no prompt-base; avaliar mais tarde uma automação simples (por exemplo,
-formulário → cartão Trello) só depois de o processo manual estar estável.
+para o prompt-base; gerar numa ferramenta e rever noutra para reduzir enviesamentos; mais
+tarde, avaliar uma automação simples (formulário → cartão Trello) só quando o processo
+manual estiver estável.
 
 **Utilização estratégica da IA.** Usar IA estrategicamente não é automatizar tudo: é
-escolher as tarefas onde acelera (rascunhos, estrutura, tradução, crítica) e manter nas
+escolher as tarefas onde ela acelera (rascunhos, estrutura, tradução, crítica) e manter nas
 pessoas as decisões, os factos e a relação com o cliente.
