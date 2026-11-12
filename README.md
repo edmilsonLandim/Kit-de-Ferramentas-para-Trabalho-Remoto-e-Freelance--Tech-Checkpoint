@@ -78,7 +78,7 @@ argumentos.
 ## Estado
 | Sessão | Pré-teste | Lab síncrono | Lab assíncrono | Entregáveis | Pós-teste | Fórum |
 |---|---|---|---|---|---|---|
-| 1 | | | | prazo 09/11/2026 | | |
+| 1 | ✔ (5/5) | rascunho | rascunho | prazo 09/11/2026 - por confirmar | ✔ (5/5) | rascunho |
 | 2 | | | | | | |
 | 3 | | | | | | |
 | 4 | | | | | | |
