@@ -36,5 +36,5 @@ profissional assistido por IA. Não inclua dados reais de clientes.
 
 ## Estado
 - [x] Prompts corridos no Claude e outputs reais no documento (12/11/2026)
-- [ ] Documento exportado para PDF/DOCX
+- [x] Documento exportado: `entregaveis/EdmilsonLandim-Entregaveis1-Sessao1.pdf` e `.docx`
 - [ ] Submetido em Entregáveis 1

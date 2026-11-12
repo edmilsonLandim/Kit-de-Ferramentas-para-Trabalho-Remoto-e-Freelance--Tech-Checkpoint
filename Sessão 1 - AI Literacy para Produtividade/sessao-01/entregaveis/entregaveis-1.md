@@ -1,6 +1,7 @@
 # AI Productivity Sprint - Workflow Profissional Assistido por IA
 
 **Sessão 1 - AI Literacy para Produtividade** | Percurso Upskilling | Entregáveis 1
+**Formando:** Edmilson Landim | **Formador:** Rui Levy | Módulo 6 - Kit de Ferramentas para Trabalho Remoto e Freelance
 **Cliente (estudo de caso):** Cabo Digital Travel - turismo e experiências locais
 **Papel:** freelancer / consultor digital em regime remoto
 **Ferramenta de IA:** Claude (Anthropic), modelo Claude Opus 5.5 - conversa de 12/11/2026
