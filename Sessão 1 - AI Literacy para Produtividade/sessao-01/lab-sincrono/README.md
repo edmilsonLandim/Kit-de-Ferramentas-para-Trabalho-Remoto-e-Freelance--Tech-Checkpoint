@@ -52,5 +52,5 @@ estão no documento de entrega e o registo completo da conversa está em
 [`../lab-assincrono/evidencias/conversa-claude-2026-11-12.md`](../lab-assincrono/evidencias/conversa-claude-2026-11-12.md).
 
 ## Estado
-- [ ] Template preenchido e guardado em `../entregaveis/`
+- [x] Conteúdo do template entregue no PDF do Entregáveis 1 (Partes 1-5)
 - [ ] Apresentado/discutido na sessão

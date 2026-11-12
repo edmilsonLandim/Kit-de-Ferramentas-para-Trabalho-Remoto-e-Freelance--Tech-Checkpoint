@@ -32,9 +32,9 @@ profissional assistido por IA. Não inclua dados reais de clientes.
 
 ## Evidências
 - [`conversa-claude-2026-11-12.md`](evidencias/conversa-claude-2026-11-12.md): registo de todos os prompts e respostas.
-- Falta: captura da submissão no Moodle.
+- [`submissao-entregaveis-1.png`](evidencias/submissao-entregaveis-1.png): submissão no Moodle (12/11/2026 17:08).
 
 ## Estado
 - [x] Prompts corridos no Claude e outputs reais no documento (12/11/2026)
 - [x] Documento exportado: `entregaveis/EdmilsonLandim-Entregaveis1-Sessao1.pdf` e `.docx`
-- [ ] Submetido em Entregáveis 1
+- [x] Submetido em Entregáveis 1: `EdmilsonLandim-Entregaveis1-Sessao1.pdf` + `EdmilsonLandim-Entregaveis1-Registo-IA.pdf` (12/11/2026 17:08, fora do prazo)

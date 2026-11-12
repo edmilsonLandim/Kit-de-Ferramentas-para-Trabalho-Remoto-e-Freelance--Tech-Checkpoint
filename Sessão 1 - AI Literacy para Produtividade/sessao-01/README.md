@@ -37,9 +37,9 @@ Ferramentas: ChatGPT, Claude, Gemini, Google Docs, Google Meet, Moodle.
 | Atividade | Estado |
 |---|---|
 | Pré-teste - Sessão 1 | concluído (5/5) |
-| Laboratório síncrono - AI Productivity Sprint (Cabo Digital Travel) | guia e rascunho prontos |
-| Laboratório assíncrono - Otimização de Workflow Profissional com IA | guia e rascunho prontos |
-| Entregáveis 1 (abriu 02/11/2026 17:00, **limite 09/11/2026 23:59**) | por confirmar |
+| Laboratório síncrono - AI Productivity Sprint (Cabo Digital Travel) | concluído (Partes 1-5 do documento entregue) |
+| Laboratório assíncrono - Otimização de Workflow Profissional com IA | concluído (Partes 6-7) |
+| Entregáveis 1 (abriu 02/11/2026 17:00, limite 09/11/2026 23:59) | submetido 12/11/2026 17:08 (2 dias 17 h após o prazo), sem avaliação |
 | Pós-teste - Sessão 1 | concluído (5/5) |
 | Fórum: IA no Trabalho Remoto: Produtividade, Diferenciação e Riscos | rascunho pronto |
 
@@ -94,8 +94,8 @@ Tópico e rascunho: [`forum.md`](forum.md).
 
 ## Estado
 - [x] Pré-teste
-- [ ] Laboratório síncrono
-- [ ] Laboratório assíncrono
-- [ ] Entregáveis 1 submetidos
+- [x] Laboratório síncrono
+- [x] Laboratório assíncrono
+- [x] Entregáveis 1 submetidos (12/11/2026, fora do prazo)
 - [x] Pós-teste
 - [ ] Fórum: resposta inicial + comentário a outro participante
