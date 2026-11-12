@@ -1,0 +1,16 @@
+# Materiais do formador - ficam só localmente
+/*.pdf
+/*/*.pdf
+/*/*.pptx
+/*/*.docx
+/*/sessao-*/lab-*/*.pdf
+
+# Gravações das sessões (pesadas)
+*.mp4
+*.m4a
+*.mp3
+
+# Temporários do Office
+~$*
+*.tmp
+__pycache__/
