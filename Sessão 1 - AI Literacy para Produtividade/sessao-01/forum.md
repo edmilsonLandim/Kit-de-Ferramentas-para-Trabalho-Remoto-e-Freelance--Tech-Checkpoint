@@ -22,9 +22,9 @@ pequenas automações (por exemplo, transformar pedidos em tarefas no Trello).
 operacional, que muitos freelancers e PME simplesmente não têm, e análise/síntese de
 informação antes de uma reunião de discovery.
 
-**Riscos do uso excessivo.** No exercício, a IA inventou um "aumento de 50% de
-produtividade" e sugeriu colar mensagens de clientes com dados pessoais numa ferramenta
-pública. Os riscos principais são: informação incorreta enviada com confiança; outputs
+**Riscos do uso excessivo.** No exercício, o primeiro email gerado prometia "poupar várias
+horas por semana" sem qualquer prova, e o primeiro procedimento mandava colar a mensagem
+completa do cliente na IA, com dados pessoais. Os riscos principais são: informação incorreta enviada com confiança; outputs
 genéricos, iguais aos de toda a gente; questões de privacidade e RGPD; e a perda progressiva
 de espírito crítico quando deixamos de rever.
 
