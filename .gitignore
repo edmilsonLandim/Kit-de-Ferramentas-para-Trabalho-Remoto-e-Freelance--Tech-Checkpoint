@@ -3,7 +3,10 @@
 /*/*.pdf
 /*/*.pptx
 /*/*.docx
+/*/sessao-*/*.pdf
 /*/sessao-*/lab-*/*.pdf
+/*/sessao-*/lab-*/*.docx
+/*/sessao-*/lab-*/*.pptx
 
 # Gravações das sessões (pesadas)
 *.mp4
