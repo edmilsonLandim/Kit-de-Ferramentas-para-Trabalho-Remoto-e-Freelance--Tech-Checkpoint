@@ -26,7 +26,7 @@ próximo passo é juntar um caso de integração e automação, descrito sem dad
 confidenciais.
 
 **Branding e reputação.** Escolhi uma headline única para todas as plataformas:
-*"Automation & Integration Specialist | APIs · Data Workflows · Power BI Dashboards"*. A
+*"Automation & Integration Specialist for SMEs | APIs · Data Workflows · Power BI Dashboards"*. A
 reputação constrói-se depois com entregas cumpridas, avaliações pedidas no fim de cada
 projeto e cuidado com o que publico, incluindo a confidencialidade dos dados dos clientes.
 

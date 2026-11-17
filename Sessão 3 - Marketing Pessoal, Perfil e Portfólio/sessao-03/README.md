@@ -42,7 +42,7 @@ estratégica, que reforce reputação, credibilidade e comunicação profissiona
 | Pré-teste - Sessão 3 | concluído |
 | Laboratório síncrono | concluído |
 | Laboratório assíncrono | documento pronto |
-| Entregáveis 3 (limite 11/11/2026) | por fazer - fora do prazo |
+| Entregáveis 3 (limite 11/11/2026) | ✔ submetido 17/11/2026 17:14 (fora do prazo) |
 | Pós-teste - Sessão 3 | concluído |
 | Fórum: Construção de Identidade e Diferenciação Profissional Digital | rascunho pronto |
 
@@ -62,6 +62,6 @@ Tópico e rascunho da participação: [`forum.md`](forum.md).
 - [x] Pré-teste
 - [x] Laboratório síncrono
 - [x] Laboratório assíncrono
-- [ ] Entregáveis 3 submetidos
+- [x] Entregáveis 3 submetidos (17/11/2026 17:14, fora do prazo)
 - [x] Pós-teste
 - [ ] Fórum: resposta inicial + comentário a outro participante
