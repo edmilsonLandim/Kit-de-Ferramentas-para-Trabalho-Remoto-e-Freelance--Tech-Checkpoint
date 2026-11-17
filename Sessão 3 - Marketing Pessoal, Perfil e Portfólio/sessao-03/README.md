@@ -20,14 +20,14 @@ estratégica, que reforce reputação, credibilidade e comunicação profissiona
 ### Materiais do Moodle (nesta pasta, fora do Git)
 | Recurso | Tipo | Ficheiro |
 |---|---|---|
-| Sumário Antecipado | PDF | *(a colocar)* |
-| Apresentação Módulo 5 - Sessão 3 | PDF | *(a colocar)* |
+| Sumário Antecipado | PDF | não guardado |
+| Apresentação Módulo 5 - Sessão 3 | PDF | `Apresentação Módulo 5 - Sessão 3.pdf` (49 slides) |
 | Sessão 3 (áudio / vídeo) | M4A / MP4 | não guardado |
-| Laboratório Síncrono | PDF | *(a colocar em `lab-sincrono/`)* |
-| Documentos Exercício | URL | *(link a indicar)* |
-| Laboratório Assíncrono | PDF | *(a colocar em `lab-assincrono/`)* |
-| GitHub_Portfólio | PDF | *(a colocar em `lab-assincrono/`)* |
-| Vídeos Complementares | PDF | *(a colocar)* |
+| Laboratório Síncrono | PDF | `lab-sincrono/Laboratório Síncrono - Upskilling - Sessão 3.pdf` |
+| Documentos Exercício | URL | template em Google Docs (Moodle) |
+| Laboratório Assíncrono | PDF | `lab-assincrono/Laboratório Assíncrono - Upskilling - Sessão 3.pdf` |
+| GitHub_Portfólio | PDF | `GitHub_Portfólio - Upskilling - Sessão 3.pdf` |
+| Vídeos Complementares | PDF | `Videos Complementares.pdf` (LinkedIn 2026, portfólio Notion/Canva, autoridade digital) |
 
 - **Pré-teste**: diagnosticar branding profissional, posicionamento digital, portfólio e
   presença profissional online.
@@ -39,11 +39,11 @@ estratégica, que reforce reputação, credibilidade e comunicação profissiona
 ## Atividades
 | Atividade | Estado |
 |---|---|
-| Pré-teste - Sessão 3 | por fazer |
-| Laboratório síncrono | por fazer |
-| Laboratório assíncrono | a aguardar enunciado |
+| Pré-teste - Sessão 3 | concluído |
+| Laboratório síncrono | concluído |
+| Laboratório assíncrono | documento pronto |
 | Entregáveis 3 (limite 11/11/2026) | por fazer - fora do prazo |
-| Pós-teste - Sessão 3 | por fazer |
+| Pós-teste - Sessão 3 | concluído |
 | Fórum: Construção de Identidade e Diferenciação Profissional Digital | rascunho pronto |
 
 ## Laboratório síncrono
@@ -53,15 +53,15 @@ Trabalho feito na sessão em [`lab-sincrono/`](lab-sincrono/).
 Enunciado e guia: [`lab-assincrono/README.md`](lab-assincrono/README.md).
 
 ## Entregáveis 3
-Ficheiros a submeter em [`entregaveis/`](entregaveis/).
+Documento a submeter: [`entregaveis/entregaveis-3.md`](entregaveis/entregaveis-3.md) → `EdmilsonLandim-Entregaveis3-Sessao3.pdf` (5 páginas): perfil revisto, headline e proposta de valor, evidências de portfólio, reflexões e estratégia.
 
 ## Fórum
 Tópico e rascunho da participação: [`forum.md`](forum.md).
 
 ## Estado
-- [ ] Pré-teste
-- [ ] Laboratório síncrono
-- [ ] Laboratório assíncrono
+- [x] Pré-teste
+- [x] Laboratório síncrono
+- [x] Laboratório assíncrono
 - [ ] Entregáveis 3 submetidos
-- [ ] Pós-teste
+- [x] Pós-teste
 - [ ] Fórum: resposta inicial + comentário a outro participante

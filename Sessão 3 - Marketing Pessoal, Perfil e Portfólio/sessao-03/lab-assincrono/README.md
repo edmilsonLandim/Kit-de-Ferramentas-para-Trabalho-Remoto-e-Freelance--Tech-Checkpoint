@@ -1,17 +1,25 @@
-# Sessão 3 – Marketing Pessoal, Perfil e Portfólio - Laboratório Assíncrono
+# Laboratório Assíncrono - Consolidação de Identidade e Posicionamento Profissional Digital
 
-*(a aguardar enunciado: colocar `Laboratório Assíncrono - Upskilling - Sessão 3.pdf` e o
-`GitHub_Portfólio` nesta pasta)*
+Enunciado: `Laboratório Assíncrono - Upskilling - Sessão 3.pdf` (nesta pasta, fora do Git).
+Duração estimada: 30 a 45 minutos. Submissão: **Entregáveis 3** no Moodle (limite 11/11/2026 23:59).
 
-Submissão: **Entregáveis 3** no Moodle (limite 11/11/2026 23:59).
+## Entregáveis (Moodle)
+| Pedido | Secção do documento |
+|---|---|
+| Versão revista do perfil profissional | 1 - quadro de alterações v1→v2, headline, Sobre (PT/EN), serviços, competências, keywords |
+| Headline e proposta de valor | 2 - evolução da headline e da proposta de valor |
+| Exemplos de evidências para portfólio | 3 - 6 evidências, exemplo EcoLogística, estrutura no GitHub |
+| Breve reflexão sobre posicionamento e diferenciação | 4 |
+| Breve estratégia inicial de posicionamento | 5 - plano de 3 meses |
+| Reflexão sobre diferenciação e presença digital | 6 - cobre os 7 pontos da reflexão recomendada + uso de IA |
 
-**Perfil a usar:** Técnico de Automação & Interoperabilidade + Power BI. Headline e proposta
-de valor definidas na Sessão 2 (`../../../Sessão 2 - .../sessao-02/entregaveis/entregaveis-2.md`).
+Documento: [`../entregaveis/entregaveis-3.md`](../entregaveis/entregaveis-3.md).
+**Perfil usado:** Técnico de Automação & Interoperabilidade + Power BI (continuação dos Entregáveis 2).
 
 ## Evidências
 Guardar em [`evidencias/`](evidencias/): captura da submissão.
 
 ## Estado
-- [ ] Enunciado lido
-- [ ] Documento preparado
+- [x] Enunciado lido
+- [x] Documento exportado: `entregaveis/EdmilsonLandim-Entregaveis3-Sessao3.pdf`
 - [ ] Submetido em Entregáveis 3
