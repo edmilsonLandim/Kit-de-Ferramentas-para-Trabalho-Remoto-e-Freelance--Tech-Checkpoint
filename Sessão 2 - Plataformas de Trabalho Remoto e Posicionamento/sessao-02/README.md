@@ -40,7 +40,7 @@ proposta de valor, personal branding e posicionamento competitivo.
 | Pré-teste - Sessão 2 | concluído |
 | Laboratório síncrono | guia pronto |
 | Laboratório assíncrono | documento pronto |
-| Entregáveis 2 (limite 10/11/2026) | por fazer - fora do prazo |
+| Entregáveis 2 (limite 10/11/2026) | ✔ submetido 17/11/2026 15:33 (fora do prazo) |
 | Pós-teste - Sessão 2 | concluído |
 | Fórum: Estratégia de Posicionamento em Plataformas Digitais | resposta publicada 17/11; comentário por fazer |
 
@@ -63,6 +63,6 @@ Tópico e rascunho da participação: [`forum.md`](forum.md).
 - [x] Pré-teste
 - [ ] Laboratório síncrono
 - [ ] Laboratório assíncrono
-- [ ] Entregáveis 2 submetidos
+- [x] Entregáveis 2 submetidos (17/11/2026 15:33, fora do prazo)
 - [x] Pós-teste
 - [ ] Fórum: resposta inicial ✔ publicada 17/11; falta comentário a outro participante

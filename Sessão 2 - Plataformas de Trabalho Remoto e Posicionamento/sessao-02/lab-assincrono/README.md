@@ -31,4 +31,4 @@ Guardar em [`evidencias/`](evidencias/): captura da submissão.
 ## Estado
 - [x] Perfil/plataforma confirmados
 - [x] Documento exportado: `entregaveis/EdmilsonLandim-Entregaveis2-Sessao2.pdf`
-- [ ] Submetido em Entregáveis 2
+- [x] Submetido em Entregáveis 2 (17/11/2026 15:33, 6 dias 15 horas fora do prazo; evidencias/submissao-entregaveis-2.png)
