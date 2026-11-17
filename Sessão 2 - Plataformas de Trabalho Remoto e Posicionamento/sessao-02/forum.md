@@ -53,5 +53,5 @@ bem definidos para ganhar as primeiras avaliações. Como pensas construir reput
 primeiros meses em [plataforma do colega]?
 
 ## Estado
-- [ ] Resposta inicial publicada
+- [x] Resposta inicial publicada (17/11/2026, texto igual ao rascunho acima)
 - [ ] Comentário publicado

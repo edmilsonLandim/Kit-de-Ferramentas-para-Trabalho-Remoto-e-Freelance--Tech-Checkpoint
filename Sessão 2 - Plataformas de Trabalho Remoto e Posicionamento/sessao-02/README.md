@@ -42,7 +42,7 @@ proposta de valor, personal branding e posicionamento competitivo.
 | Laboratório assíncrono | documento pronto |
 | Entregáveis 2 (limite 10/11/2026) | por fazer - fora do prazo |
 | Pós-teste - Sessão 2 | concluído |
-| Fórum: Estratégia de Posicionamento em Plataformas Digitais | rascunho pronto |
+| Fórum: Estratégia de Posicionamento em Plataformas Digitais | resposta publicada 17/11; comentário por fazer |
 
 Materiais do formador (sumário, apresentação, enunciados dos labs, áudio/vídeo) ficam na
 pasta da sessão, fora do Git.
@@ -65,4 +65,4 @@ Tópico e rascunho da participação: [`forum.md`](forum.md).
 - [ ] Laboratório assíncrono
 - [ ] Entregáveis 2 submetidos
 - [x] Pós-teste
-- [ ] Fórum: resposta inicial + comentário a outro participante
+- [ ] Fórum: resposta inicial ✔ publicada 17/11; falta comentário a outro participante
