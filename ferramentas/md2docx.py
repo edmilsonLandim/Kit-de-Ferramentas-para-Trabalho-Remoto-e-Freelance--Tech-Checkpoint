@@ -10,6 +10,7 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 
 SRC, DST = sys.argv[1], sys.argv[2]
+FOOTER = sys.argv[3] if len(sys.argv) > 3 else "Entregáveis 1 – Sessão 1 – AI Productivity Sprint"
 NAVY = RGBColor(0x1F, 0x4E, 0x79)
 GREY = RGBColor(0x59, 0x59, 0x59)
 
@@ -225,7 +226,7 @@ while i < len(lines):
 # rodapé com número de página
 fp = sec.footer.paragraphs[0]
 fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = fp.add_run("Entregáveis 1 – Sessão 1 – AI Productivity Sprint   |   página ")
+r = fp.add_run(FOOTER + "   |   página ")
 r.font.size = Pt(8); r.font.color.rgb = GREY
 r2 = fp.add_run()
 for tag, txt in (("begin", None), (None, "PAGE"), ("end", None)):

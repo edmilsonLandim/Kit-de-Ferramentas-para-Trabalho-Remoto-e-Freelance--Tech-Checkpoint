@@ -82,7 +82,7 @@ argumentos.
 | Sessão | Pré-teste | Lab síncrono | Lab assíncrono | Entregáveis | Pós-teste | Fórum |
 |---|---|---|---|---|---|---|
 | 1 | ✔ (5/5) | ✔ | ✔ | ✔ submetido 12/11 (fora do prazo) | ✔ (5/5) | resposta ✔, comentário por fazer |
-| 2 | | | | | | |
+| 2 | ✔ | guia | rascunho | prazo 10/11/2026 - por submeter | ✔ | rascunho |
 | 3 | | | | | | |
 | 4 | | | | | | |
 | Inquérito de reação | | | | | | |

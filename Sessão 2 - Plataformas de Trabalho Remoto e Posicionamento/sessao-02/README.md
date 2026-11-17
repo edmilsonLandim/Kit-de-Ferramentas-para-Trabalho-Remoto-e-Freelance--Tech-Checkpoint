@@ -18,14 +18,14 @@ proposta de valor, personal branding e posicionamento competitivo.
 ### Materiais do Moodle (nesta pasta, fora do Git)
 | Recurso | Tipo | Ficheiro |
 |---|---|---|
-| Sumário Antecipado | PDF | *(colocar em `sessao-02/`)* |
-| Apresentação Módulo 5 - Sessão 2 | PDF | *(colocar em `sessao-02/`)* |
+| Sumário Antecipado | PDF | `Sumário Antecipado - Upskilling - Sessão 2.pdf` |
+| Apresentação Módulo 5 - Sessão 2 | PDF | `Apresentação Módulo 5 - Sessão 2.pdf` |
 | Sessão (áudio / vídeo) | M4A / MP4 | não guardado (no Moodle aparece como "Sessão 1") |
-| Laboratório Síncrono | PDF | *(colocar em `lab-sincrono/`)* |
-| Documentos Exercício | URL | *(colocar em `lab-sincrono/`)* |
-| Laboratório Assíncrono | PDF | *(colocar em `lab-assincrono/`)* |
-| GitHub_Portfólio | PDF | *(colocar em `sessao-02/`)* |
-| Vídeos Complementares | PDF | *(colocar em `sessao-02/`)* |
+| Laboratório Síncrono | PDF | `lab-sincrono/Laboratório Síncrono - Upskilling - Sessão 2.pdf` |
+| Documentos Exercício | DOCX | `lab-assincrono/📘 Template de Exercício – Grupo 1..4.docx` |
+| Laboratório Assíncrono | PDF | `lab-assincrono/Laboratório Assíncrono - Upskilling - Sessão 2.pdf` |
+| GitHub_Portfólio | PDF | `lab-assincrono/GitHub_Portfólio - Upskilling - Sessão 2.pdf` |
+| Vídeos Complementares | PDF | `Videos Complementares.pdf` (plataformas, Upwork, Fiverr, Workana, LinkedIn, preços, Notion, Trello) |
 
 - **Pré-teste**: diagnosticar posicionamento profissional digital, plataformas de trabalho
   remoto, diferenciação competitiva e estratégias de entrada em marketplaces freelance.
@@ -37,12 +37,12 @@ proposta de valor, personal branding e posicionamento competitivo.
 ## Atividades
 | Atividade | Estado |
 |---|---|
-| Pré-teste - Sessão 2 | por fazer |
-| Laboratório síncrono | por fazer |
-| Laboratório assíncrono | por fazer |
+| Pré-teste - Sessão 2 | concluído |
+| Laboratório síncrono | guia pronto |
+| Laboratório assíncrono | documento pronto |
 | Entregáveis 2 (limite 10/11/2026) | por fazer - fora do prazo |
-| Pós-teste - Sessão 2 | por fazer |
-| Fórum: Estratégia de Posicionamento em Plataformas Digitais | por fazer |
+| Pós-teste - Sessão 2 | concluído |
+| Fórum: Estratégia de Posicionamento em Plataformas Digitais | rascunho pronto |
 
 Materiais do formador (sumário, apresentação, enunciados dos labs, áudio/vídeo) ficam na
 pasta da sessão, fora do Git.
@@ -54,15 +54,15 @@ Trabalho feito na sessão em [`lab-sincrono/`](lab-sincrono/).
 Enunciado e guia: [`lab-assincrono/README.md`](lab-assincrono/README.md).
 
 ## Entregáveis 2
-Ficheiros a submeter em [`entregaveis/`](entregaveis/).
+Documento a submeter: [`entregaveis/entregaveis-2.md`](entregaveis/entregaveis-2.md) - plataforma Upwork, posicionamento em automação e integração de dados + Power BI para PME.
 
 ## Fórum
 Tópico e rascunho da participação: [`forum.md`](forum.md).
 
 ## Estado
-- [ ] Pré-teste
+- [x] Pré-teste
 - [ ] Laboratório síncrono
 - [ ] Laboratório assíncrono
 - [ ] Entregáveis 2 submetidos
-- [ ] Pós-teste
+- [x] Pós-teste
 - [ ] Fórum: resposta inicial + comentário a outro participante
