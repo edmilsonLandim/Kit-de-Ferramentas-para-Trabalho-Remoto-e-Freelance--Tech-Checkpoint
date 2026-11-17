@@ -85,4 +85,4 @@ argumentos.
 | 2 | ✔ | ✔ | ✔ | ✔ submetido 17/11 (fora do prazo) | ✔ | resposta ✔, comentário por fazer |
 | 3 | ✔ | ✔ | ✔ | ✔ submetido 17/11 (fora do prazo) | ✔ | rascunho |
 | 4 | ✔ | ✔ | ✔ | ✔ submetido 17/11 (fora do prazo) | ✔ | rascunho |
-| Inquérito de reação | | | | | | |
+| Inquérito de reação | ✔ respondido 17/11/2026 | | | | | |
