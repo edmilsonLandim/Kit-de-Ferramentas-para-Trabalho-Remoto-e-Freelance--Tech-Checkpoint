@@ -34,8 +34,8 @@ projeto e cuidado com o que publico, incluindo a confidencialidade dos dados dos
 equipa deixe de copiar informação e passe a decidir com dashboards sempre atualizados."
 Uma frase que diz para quem, que problema e que resultado.
 
-**Coerência online.** O mesmo título, a mesma foto, a mesma descrição e as mesmas palavras-
--chave no LinkedIn, na Upwork e no GitHub. Quem me encontra num sítio deve reconhecer-me no
+**Coerência online.** O mesmo título, a mesma foto, a mesma descrição e as mesmas palavras-chave
+no LinkedIn, na Upwork e no GitHub. Quem me encontra num sítio deve reconhecer-me no
 outro. As keywords também contam: os clientes pesquisam por "Power BI dashboard", "API
 integration" ou "automation", não por títulos genéricos.
 
