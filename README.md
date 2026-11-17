@@ -81,7 +81,7 @@ argumentos.
 ## Estado
 | Sessão | Pré-teste | Lab síncrono | Lab assíncrono | Entregáveis | Pós-teste | Fórum |
 |---|---|---|---|---|---|---|
-| 1 | ✔ (5/5) | ✔ | ✔ | ✔ submetido 12/11 (fora do prazo) | ✔ (5/5) | rascunho |
+| 1 | ✔ (5/5) | ✔ | ✔ | ✔ submetido 12/11 (fora do prazo) | ✔ (5/5) | resposta ✔, comentário por fazer |
 | 2 | | | | | | |
 | 3 | | | | | | |
 | 4 | | | | | | |

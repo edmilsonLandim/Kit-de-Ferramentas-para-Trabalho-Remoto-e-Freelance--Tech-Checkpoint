@@ -53,5 +53,5 @@ rever criticamente o resultado. Na tua experiência, [pergunta concreta: que tar
 preferes fazer sem IA / como validas os factos / como explicas ao cliente que usas IA]?
 
 ## Estado
-- [ ] Resposta inicial publicada
+- [x] Resposta inicial publicada (17/11/2026, texto igual ao rascunho acima)
 - [ ] Comentário publicado

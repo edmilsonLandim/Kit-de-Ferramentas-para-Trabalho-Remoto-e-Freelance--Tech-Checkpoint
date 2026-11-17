@@ -41,7 +41,7 @@ Ferramentas: ChatGPT, Claude, Gemini, Google Docs, Google Meet, Moodle.
 | Laboratório assíncrono - Otimização de Workflow Profissional com IA | concluído (Partes 6-7) |
 | Entregáveis 1 (abriu 02/11/2026 17:00, limite 09/11/2026 23:59) | submetido 12/11/2026 17:08 (2 dias 17 h após o prazo), sem avaliação |
 | Pós-teste - Sessão 1 | concluído (5/5) |
-| Fórum: IA no Trabalho Remoto: Produtividade, Diferenciação e Riscos | rascunho pronto |
+| Fórum: IA no Trabalho Remoto: Produtividade, Diferenciação e Riscos | resposta publicada 17/11/2026; falta comentar 1 colega |
 
 ## Pré-teste (anónimo)
 | # | Pergunta (resumo) | Resposta |
