@@ -21,14 +21,14 @@ estratégico de ferramentas digitais e IA, em contextos próximos do trabalho re
 ### Materiais do Moodle (nesta pasta, fora do Git)
 | Recurso | Tipo | Ficheiro |
 |---|---|---|
-| Sumário Antecipado | PDF | *(a colocar)* |
-| Apresentação Módulo 5 - Sessão 4 | PDF | *(a colocar)* |
+| Sumário Antecipado | PDF | `Sumário Antecipado - Upskilling - Sessão 4.pdf` |
+| Apresentação Módulo 5 - Sessão 4 | PDF | `Apresentação Módulo 5 - Sessão 4.pdf` |
 | Sessão 4 (áudio / vídeo) | M4A / MP4 | não guardado |
-| Laboratório Síncrono | PDF | *(a colocar em `lab-sincrono/`)* |
+| Laboratório Síncrono | PDF | `lab-sincrono/Laboratório Síncrono - Upskilling - Sessão 4.pdf` (simulação em 4 grupos: conteúdo, apoio administrativo, proposta de serviço, presença e portfólio) |
 | Documentos Exercício | URL | Google Docs (Moodle) |
-| Laboratório Assíncrono | PDF | *(a colocar em `lab-assincrono/`)* |
-| GitHub_Portfólio | PDF | *(a colocar)* |
-| Vídeos Complementares | PDF | *(a colocar)* |
+| Laboratório Assíncrono | PDF | `lab-assincrono/Laboratório Assíncrono - Upskilling - Sessão 4.pdf` |
+| GitHub_Portfólio | PDF | `GitHub_Portfólio - Upskilling - Sessão 4.pdf` |
+| Vídeos Complementares | PDF | `Videos Complementares.pdf` (Claude/IA para freelancers, Upwork, LinkedIn B2B) |
 
 - **Pré-teste**: diagnosticar posicionamento profissional digital, workflows remotos,
   comunicação profissional, operações digitais e uso estratégico de IA.
@@ -40,11 +40,11 @@ estratégico de ferramentas digitais e IA, em contextos próximos do trabalho re
 ## Atividades
 | Atividade | Estado |
 |---|---|
-| Pré-teste - Sessão 4 | por fazer |
-| Laboratório síncrono | por fazer |
-| Laboratório assíncrono | por fazer |
+| Pré-teste - Sessão 4 | concluído |
+| Laboratório síncrono | concluído (presencial) |
+| Laboratório assíncrono | documento pronto |
 | Entregáveis 4 (limite 13/11/2026) | por fazer - fora do prazo |
-| Pós-teste - Sessão 4 | por fazer |
+| Pós-teste - Sessão 4 | concluído |
 | Fórum: Estratégia Profissional Digital e Próximos Passos | rascunho pronto |
 
 Materiais do formador (sumário, apresentação, enunciados dos labs, áudio/vídeo) ficam na
@@ -57,15 +57,15 @@ Trabalho feito na sessão em [`lab-sincrono/`](lab-sincrono/).
 Enunciado e guia: [`lab-assincrono/README.md`](lab-assincrono/README.md).
 
 ## Entregáveis 4
-Ficheiros a submeter em [`entregaveis/`](entregaveis/).
+Documento a submeter: [`entregaveis/entregaveis-4.md`](entregaveis/entregaveis-4.md) → `EdmilsonLandim-Entregaveis4-Sessao4.pdf` (6 páginas): outputs consolidados, proposta EcoLogística, workflow, portfólio, reflexões e melhorias com IA.
 
 ## Fórum
 Tópico e rascunho da participação: [`forum.md`](forum.md).
 
 ## Estado
-- [ ] Pré-teste
-- [ ] Laboratório síncrono
-- [ ] Laboratório assíncrono
+- [x] Pré-teste
+- [x] Laboratório síncrono
+- [x] Laboratório assíncrono
 - [ ] Entregáveis 4 submetidos
-- [ ] Pós-teste
+- [x] Pós-teste
 - [ ] Fórum: resposta inicial + comentário a outro participante
