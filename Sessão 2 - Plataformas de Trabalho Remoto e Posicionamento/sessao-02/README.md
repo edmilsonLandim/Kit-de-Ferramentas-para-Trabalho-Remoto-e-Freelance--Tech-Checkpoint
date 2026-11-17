@@ -61,8 +61,8 @@ Tópico e rascunho da participação: [`forum.md`](forum.md).
 
 ## Estado
 - [x] Pré-teste
-- [ ] Laboratório síncrono
-- [ ] Laboratório assíncrono
+- [x] Laboratório síncrono
+- [x] Laboratório assíncrono
 - [x] Entregáveis 2 submetidos (17/11/2026 15:33, fora do prazo)
 - [x] Pós-teste
 - [ ] Fórum: resposta inicial ✔ publicada 17/11; falta comentário a outro participante
