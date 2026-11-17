@@ -23,4 +23,4 @@ Guardar em [`evidencias/`](evidencias/): captura da submissão.
 ## Estado
 - [x] Enunciado lido
 - [x] Documento exportado: `entregaveis/EdmilsonLandim-Entregaveis4-Sessao4.pdf`
-- [ ] Submetido em Entregáveis 4
+- [x] Submetido em Entregáveis 4 (17/11/2026 17:28, 3 dias 17 horas fora do prazo; evidencias/submissao-entregaveis-4.png)

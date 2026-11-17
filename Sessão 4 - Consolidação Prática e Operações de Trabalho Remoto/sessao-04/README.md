@@ -43,7 +43,7 @@ estratégico de ferramentas digitais e IA, em contextos próximos do trabalho re
 | Pré-teste - Sessão 4 | concluído |
 | Laboratório síncrono | concluído (presencial) |
 | Laboratório assíncrono | documento pronto |
-| Entregáveis 4 (limite 13/11/2026) | por fazer - fora do prazo |
+| Entregáveis 4 (limite 13/11/2026) | ✔ submetido 17/11/2026 17:28 (fora do prazo) |
 | Pós-teste - Sessão 4 | concluído |
 | Fórum: Estratégia Profissional Digital e Próximos Passos | rascunho pronto |
 
@@ -66,6 +66,6 @@ Tópico e rascunho da participação: [`forum.md`](forum.md).
 - [x] Pré-teste
 - [x] Laboratório síncrono
 - [x] Laboratório assíncrono
-- [ ] Entregáveis 4 submetidos
+- [x] Entregáveis 4 submetidos (17/11/2026 17:28, fora do prazo)
 - [x] Pós-teste
 - [ ] Fórum: resposta inicial + comentário a outro participante
