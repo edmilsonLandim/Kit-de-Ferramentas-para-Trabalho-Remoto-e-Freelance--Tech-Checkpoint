@@ -58,6 +58,9 @@ Outros elementos do Moodle: Ficha da Unidade Curricular, Fórum, Anúncios, M6 -
 Registo de Presenças, Aulas Gravadas, **Inquérito de Reação do Formando** (no fim).
 
 ## Fóruns
+Os 4 tópicos estão todos na mesma atividade **Fórum** do curso (criados por Rui Levy a
+29/10/2026), não dentro de cada sessão. Estado a 17/11/2026: 0 respostas em todos.
+
 Regras comuns: publicar uma resposta inicial fundamentada; comentar pelo menos uma
 publicação de outro participante; linguagem clara, objetiva e profissional; exemplos e
 argumentos.
