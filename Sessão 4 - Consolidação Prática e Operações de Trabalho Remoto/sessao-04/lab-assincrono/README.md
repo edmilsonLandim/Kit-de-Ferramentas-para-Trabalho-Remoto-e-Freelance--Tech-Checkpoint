@@ -29,3 +29,4 @@ Guardar em [`evidencias/`](evidencias/): captura da submissão.
 - [x] Documento exportado: `entregaveis/EdmilsonLandim-Entregaveis4-Sessao4.pdf`
 - [x] Submetido em Entregáveis 4 (17/11/2026 17:28, 3 dias 17 horas fora do prazo; evidencias/submissao-entregaveis-4.png)
 - [x] Versão atualizada (NovaStart + BrightFlow) ressubmetida a 18/11/2026 09:32 (evidencias/submissao-entregaveis-4-v2.png)
+- [ ] Correção da estrutura do portfólio (02-proposta-novastart) - ressubmeter

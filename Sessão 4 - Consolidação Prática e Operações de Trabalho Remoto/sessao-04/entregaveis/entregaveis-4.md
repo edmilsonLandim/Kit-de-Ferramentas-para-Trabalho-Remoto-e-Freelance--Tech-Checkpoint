@@ -270,11 +270,12 @@ Cada cartão tem responsável, prazo e cliente.
 portfolio/
   README.md                     headline, proposta de valor, serviços, contactos
   01-power-bi-ecologistica/     capturas, descrição, link do relatório
-  02-proposta-integracao/       proposta, milestones, pricing (Sessão 4)
-  03-operacoes-remotas/         workflow, rotina, checklist de segurança
-  04-produtividade-ia/          email, SOP e workflow (Sessão 1)
-  05-posicionamento/            análise de plataformas e perfil (Sessões 2 e 3)
-  06-integracao-automacao/      caso anonimizado (a preparar)
+  02-proposta-novastart/        proposta, scope, milestones, pricing (Sessão 4)
+  03-comunicacao-cliente/       resposta à BrightFlow e follow-ups (Sessão 4)
+  04-operacoes-remotas/         workflow, rotina, SOP de follow-up, checklist
+  05-produtividade-ia/          email, SOP e workflow (Sessão 1)
+  06-posicionamento/            análise de plataformas e perfil (Sessões 2 e 3)
+  07-integracao-automacao/      caso anonimizado (a preparar)
 ```
 
 Repositórios no GitHub (github.com/edmilsonLandim): módulo de Trabalho Remoto
